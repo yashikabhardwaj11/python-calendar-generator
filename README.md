@@ -1,40 +1,43 @@
-### \# **Python Calendar Generator**
+# Python Calendar Generator
 
 
 
-* ###### ***About***
+## About
 
 This is a simple Python project that displays the calendar of a given month and year.
 
 
 
-* ###### &#x20;***Features***
+## Features
 
-\- Displays the monthly calendar.
+- Displays the monthly calendar.
 
-\- Validates user input.
+- Validates user input.
 
-\- Prevents negative year input.
+- Prevents negative year input.
 
-\- Accepts only valid months (1-12).
-
-
-
-* ###### ***Technologies Used***
-
-\- Python
-
-\- Calendar module
+- Accepts only valid months (1-12).
 
 
 
-* ###### ***How to Run***
+## Technologies Used
 
-1\. Run the Python file.
+- Python
 
-2\. Enter the year.
+- Calendar module
 
-3\. Enter the month.
 
-4\. The calendar will be displayed.
+
+## How to Run
+
+1. Run the Python file.
+
+2. Enter the year.
+
+3. Enter the month.
+
+4. The calendar will be displayed.
+
+## Author 
+Yashika Bhardwaj
 
